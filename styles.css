@@ -1,0 +1,9 @@
+.thisIcon:hover{
+    color:rgb(220,53,69);
+}
+
+i.liked{
+    color:rgb(220,53,69) !important;
+}
+.icon-link:hover{
+    text-decoration: underline !important;}
